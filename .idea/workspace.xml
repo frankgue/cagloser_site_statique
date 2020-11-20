@@ -1,7 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ebf0658-742b-468b-a12e-9815dab5ebae" name="Default" comment="" />
+    <list default="true" id="4ebf0658-742b-468b-a12e-9815dab5ebae" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autre-cardio.html" beforeDir="false" afterPath="$PROJECT_DIR$/autre-cardio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autre-ecographie.html" beforeDir="false" afterPath="$PROJECT_DIR$/autre-ecographie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autre-equipements-last.html" beforeDir="false" afterPath="$PROJECT_DIR$/autre-equipements-last.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autre-equipements.html" beforeDir="false" afterPath="$PROJECT_DIR$/autre-equipements.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autre-lab.html" beforeDir="false" afterPath="$PROJECT_DIR$/autre-lab.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autres-equipement-accesoire.html" beforeDir="false" afterPath="$PROJECT_DIR$/autres-equipement-accesoire.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/biochimie.html" beforeDir="false" afterPath="$PROJECT_DIR$/biochimie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocOperatoire.html" beforeDir="false" afterPath="$PROJECT_DIR$/blocOperatoire.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinetDentaire.html" beforeDir="false" afterPath="$PROJECT_DIR$/cabinetDentaire.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/capteur-plan.html" beforeDir="false" afterPath="$PROJECT_DIR$/capteur-plan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cardiologie.html" beforeDir="false" afterPath="$PROJECT_DIR$/cardiologie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/cart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/category.html" beforeDir="false" afterPath="$PROJECT_DIR$/category.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/checkout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consomable-divers.html" beforeDir="false" afterPath="$PROJECT_DIR$/consomable-divers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consomables.html" beforeDir="false" afterPath="$PROJECT_DIR$/consomables.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dopller_couleur.html" beforeDir="false" afterPath="$PROJECT_DIR$/dopller_couleur.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecg.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecg.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/epreuve-efforts.html" beforeDir="false" afterPath="$PROJECT_DIR$/epreuve-efforts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/equipement-ophtamologie.html" beforeDir="false" afterPath="$PROJECT_DIR$/equipement-ophtamologie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fincare.html" beforeDir="false" afterPath="$PROJECT_DIR$/fincare.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gynecologie.html" beforeDir="false" afterPath="$PROJECT_DIR$/gynecologie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hematologie.html" beforeDir="false" afterPath="$PROJECT_DIR$/hematologie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/holter.html" beforeDir="false" afterPath="$PROJECT_DIR$/holter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imprimante-laser.html" beforeDir="false" afterPath="$PROJECT_DIR$/imprimante-laser.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/irm.html" beforeDir="false" afterPath="$PROJECT_DIR$/irm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laboratoire.html" beforeDir="false" afterPath="$PROJECT_DIR$/laboratoire.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapa.html" beforeDir="false" afterPath="$PROJECT_DIR$/mapa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuro.html" beforeDir="false" afterPath="$PROJECT_DIR$/neuro.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/noir_sur_blanc.html" beforeDir="false" afterPath="$PROJECT_DIR$/noir_sur_blanc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ophtamologie.html" beforeDir="false" afterPath="$PROJECT_DIR$/ophtamologie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/orl.html" beforeDir="false" afterPath="$PROJECT_DIR$/orl.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/point-care-testing.html" beforeDir="false" afterPath="$PROJECT_DIR$/point-care-testing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product.html" beforeDir="false" afterPath="$PROJECT_DIR$/product.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/radio-mobile.html" beforeDir="false" afterPath="$PROJECT_DIR$/radio-mobile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/radio-telecommande.html" beforeDir="false" afterPath="$PROJECT_DIR$/radio-telecommande.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactif-labo.html" beforeDir="false" afterPath="$PROJECT_DIR$/reactif-labo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/references.html" beforeDir="false" afterPath="$PROJECT_DIR$/references.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scanner.html" beforeDir="false" afterPath="$PROJECT_DIR$/scanner.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systeme_de_numerisateur.html" beforeDir="false" afterPath="$PROJECT_DIR$/systeme_de_numerisateur.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table-radio-fixe.html" beforeDir="false" afterPath="$PROJECT_DIR$/table-radio-fixe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table-radio-mobile.html" beforeDir="false" afterPath="$PROJECT_DIR$/table-radio-mobile.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,11 +64,10 @@
       <file leaf-file-name="radio-mobile.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/radio-mobile.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
+            <state relative-caret-position="393">
+              <caret line="174" column="38" lean-forward="true" selection-start-line="174" selection-start-column="38" selection-end-line="174" selection-end-column="38" />
               <folding>
                 <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="e#6468#7557#0" />
               </folding>
             </state>
           </provider>
@@ -32,24 +76,23 @@
       <file leaf-file-name="radio-telecommande.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/radio-telecommande.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
+            <state relative-caret-position="364">
+              <caret line="174" column="38" lean-forward="true" selection-start-line="174" selection-start-column="38" selection-end-line="174" selection-end-column="38" />
               <folding>
-                <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="e#6468#7557#0" />
+                <element signature="n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="radiologie.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="radiologie.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/radiologie.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
+            <state relative-caret-position="206">
               <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
               <folding>
                 <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="e#6468#7557#0" />
               </folding>
             </state>
           </provider>
@@ -58,91 +101,87 @@
       <file leaf-file-name="references.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/references.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
+            <state relative-caret-position="257">
+              <caret line="172" column="47" selection-start-line="172" selection-start-column="47" selection-end-line="172" selection-end-column="47" />
               <folding>
                 <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="e#6489#7578#0" />
                 <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="reactif-labo.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/reactif-labo.html">
+      <file leaf-file-name="orl.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/orl.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
+            <state relative-caret-position="291">
+              <caret line="174" column="38" lean-forward="true" selection-start-line="174" selection-start-column="38" selection-end-line="174" selection-end-column="38" />
               <folding>
                 <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="e#6440#7529#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scanner.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scanner.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
-              <folding>
-                <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="e#6468#7557#0" />
                 <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="systeme_de_numerisateur.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/systeme_de_numerisateur.html">
+      <file leaf-file-name="point-care-testing.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/point-care-testing.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="424">
-              <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
+            <state relative-caret-position="361">
+              <caret line="174" column="38" lean-forward="true" selection-start-line="174" selection-start-column="38" selection-end-line="174" selection-end-column="38" />
               <folding>
                 <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="e#6468#7557#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="table-radio-fixe.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/table-radio-fixe.html">
+      <file leaf-file-name="neuro.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/neuro.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
+            <state relative-caret-position="410">
+              <caret line="172" column="26" selection-start-line="172" selection-start-column="26" selection-end-line="172" selection-end-column="26" />
               <folding>
                 <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="e#6468#7557#0" />
+                <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="table-radio-mobile.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/table-radio-mobile.html">
+      <file leaf-file-name="product.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/product.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="426">
-              <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
+            <state relative-caret-position="444">
+              <caret line="174" column="38" lean-forward="true" selection-start-line="174" selection-start-column="38" selection-end-line="174" selection-end-column="38" />
               <folding>
                 <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="e#6468#7557#0" />
+                <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tensiometre.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tensiometre.html">
+      <file leaf-file-name="noir_sur_blanc.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/noir_sur_blanc.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
+            <state relative-caret-position="495">
+              <caret line="174" column="38" lean-forward="true" selection-start-line="174" selection-start-column="38" selection-end-line="174" selection-end-column="38" />
               <folding>
                 <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="e#6468#7557#0" />
+                <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ophtamologie.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ophtamologie.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="356">
+              <caret line="174" column="38" lean-forward="true" selection-start-line="174" selection-start-column="38" selection-end-line="174" selection-end-column="38" />
+              <folding>
+                <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
@@ -184,21 +223,35 @@
       <replace>ecg2</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/equipement_ophtamologie.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/radiologie.html" />
+        <option value="$PROJECT_DIR$/tensiometre.html" />
+        <option value="$PROJECT_DIR$/autres-equipement-accesoire.html" />
+        <option value="$PROJECT_DIR$/imprimante-laser.html" />
+        <option value="$PROJECT_DIR$/capteur-plan.html" />
+        <option value="$PROJECT_DIR$/systeme_de_numerisateur.html" />
+        <option value="$PROJECT_DIR$/table-radio-fixe.html" />
+        <option value="$PROJECT_DIR$/scanner.html" />
+        <option value="$PROJECT_DIR$/irm.html" />
+        <option value="$PROJECT_DIR$/radio-telecommande.html" />
+        <option value="$PROJECT_DIR$/table-radio-mobile.html" />
         <option value="$PROJECT_DIR$/autre-cardio.html" />
         <option value="$PROJECT_DIR$/autre-ecographie.html" />
         <option value="$PROJECT_DIR$/autre-equipements.html" />
         <option value="$PROJECT_DIR$/autre-equipements-last.html" />
         <option value="$PROJECT_DIR$/autre-lab.html" />
-        <option value="$PROJECT_DIR$/autres-equipement-accesoire.html" />
+        <option value="$PROJECT_DIR$/laboratoire.html" />
         <option value="$PROJECT_DIR$/biochimie.html" />
         <option value="$PROJECT_DIR$/blocOperatoire.html" />
         <option value="$PROJECT_DIR$/cabinetDentaire.html" />
-        <option value="$PROJECT_DIR$/capteur-plan.html" />
         <option value="$PROJECT_DIR$/cardiologie.html" />
         <option value="$PROJECT_DIR$/cart.html" />
         <option value="$PROJECT_DIR$/category.html" />
@@ -207,34 +260,23 @@
         <option value="$PROJECT_DIR$/consomables.html" />
         <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/dopller_couleur.html" />
-        <option value="$PROJECT_DIR$/ecg.html" />
         <option value="$PROJECT_DIR$/epreuve-efforts.html" />
         <option value="$PROJECT_DIR$/equipement-ophtamologie.html" />
         <option value="$PROJECT_DIR$/fincare.html" />
         <option value="$PROJECT_DIR$/gynecologie.html" />
         <option value="$PROJECT_DIR$/hematologie.html" />
+        <option value="$PROJECT_DIR$/point-care-testing.html" />
+        <option value="$PROJECT_DIR$/reactif-labo.html" />
+        <option value="$PROJECT_DIR$/ecg.html" />
         <option value="$PROJECT_DIR$/holter.html" />
-        <option value="$PROJECT_DIR$/imprimante-laser.html" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/irm.html" />
-        <option value="$PROJECT_DIR$/laboratoire.html" />
         <option value="$PROJECT_DIR$/mapa.html" />
         <option value="$PROJECT_DIR$/neuro.html" />
         <option value="$PROJECT_DIR$/noir_sur_blanc.html" />
         <option value="$PROJECT_DIR$/ophtamologie.html" />
+        <option value="$PROJECT_DIR$/references.html" />
         <option value="$PROJECT_DIR$/orl.html" />
-        <option value="$PROJECT_DIR$/point-care-testing.html" />
         <option value="$PROJECT_DIR$/product.html" />
         <option value="$PROJECT_DIR$/radio-mobile.html" />
-        <option value="$PROJECT_DIR$/radio-telecommande.html" />
-        <option value="$PROJECT_DIR$/radiologie.html" />
-        <option value="$PROJECT_DIR$/reactif-labo.html" />
-        <option value="$PROJECT_DIR$/references.html" />
-        <option value="$PROJECT_DIR$/scanner.html" />
-        <option value="$PROJECT_DIR$/systeme_de_numerisateur.html" />
-        <option value="$PROJECT_DIR$/table-radio-fixe.html" />
-        <option value="$PROJECT_DIR$/table-radio-mobile.html" />
-        <option value="$PROJECT_DIR$/tensiometre.html" />
       </list>
     </option>
   </component>
@@ -288,14 +330,17 @@
     <option name="width" value="1934" />
     <option name="height" value="1057" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="Course" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -307,7 +352,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -430,15 +475,16 @@
       <workItem from="1605806976985" duration="935000" />
       <workItem from="1605871801703" duration="891000" />
       <workItem from="1605880757675" duration="2010000" />
+      <workItem from="1605882832613" duration="106000" />
+      <workItem from="1605884307545" duration="1704000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69197000" />
+    <option name="totallyTimeSpent" value="71007000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -449,12 +495,12 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3297414" />
       <window_info id="Capture Tool" order="2" />
       <window_info anchor="bottom" id="SQL" order="7" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32942432" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.336887" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
@@ -464,12 +510,12 @@
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="RNConsole" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="JRebel Executor" order="7" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info id="JRebel" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="JRebel Console" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="SQL Android" order="7" />
       <window_info anchor="bottom" id="Bitbucket Issues" order="7" />
       <window_info anchor="bottom" id="Tail" order="7" />
       <window_info anchor="right" id="Key Promoter X" order="3" />
@@ -477,10 +523,10 @@
       <window_info anchor="right" id="RestServices" order="3" />
       <window_info anchor="bottom" id="Apicloud Log" order="8" />
       <window_info anchor="right" id="Snyk" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="RNConsole" order="7" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="JRebel Executor" order="7" />
+      <window_info anchor="bottom" id="SQL Android" order="7" />
       <window_info anchor="right" id="Codota" order="3" />
       <window_info id="Navigate" order="2" />
       <window_info anchor="right" id="ReST Console" order="3" />
@@ -525,90 +571,130 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/autre-cardio.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
+        <state relative-caret-position="540">
+          <caret line="169" column="27" selection-start-line="169" selection-start-column="27" selection-end-line="169" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensiometre.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="35" column="34" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#6468#7557#0" />
+            <element signature="e#22164#22170#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/systeme_de_numerisateur.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="175" column="50" selection-start-line="175" selection-start-column="50" selection-end-line="175" selection-end-column="50" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table-radio-fixe.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="174" column="38" lean-forward="true" selection-start-line="174" selection-start-column="38" selection-end-line="174" selection-end-column="38" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scanner.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="174" column="39" lean-forward="true" selection-start-line="174" selection-start-column="39" selection-end-line="174" selection-end-column="39" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table-radio-mobile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="174" column="39" lean-forward="true" selection-start-line="174" selection-start-column="39" selection-end-line="174" selection-end-column="39" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autre-cardio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="174" column="38" lean-forward="true" selection-start-line="174" selection-start-column="38" selection-end-line="174" selection-end-column="38" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/autre-ecographie.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
+        <state relative-caret-position="308">
+          <caret line="174" column="38" lean-forward="true" selection-start-line="174" selection-start-column="38" selection-end-line="174" selection-end-column="38" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#6468#7557#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/autre-equipements.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
+        <state relative-caret-position="307">
+          <caret line="174" column="38" lean-forward="true" selection-start-line="174" selection-start-column="38" selection-end-line="174" selection-end-column="38" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#6468#7557#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/autre-equipements-last.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
+        <state relative-caret-position="206">
+          <caret line="174" column="38" lean-forward="true" selection-start-line="174" selection-start-column="38" selection-end-line="174" selection-end-column="38" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#6468#7557#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/autre-lab.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
-          <folding>
-            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#5902#6991#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/autres-equipement-accesoire.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
+        <state relative-caret-position="410">
+          <caret line="174" column="38" lean-forward="true" selection-start-line="174" selection-start-column="38" selection-end-line="174" selection-end-column="38" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#6468#7557#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/biochimie.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
+        <state relative-caret-position="428">
+          <caret line="172" column="25" selection-start-line="172" selection-start-column="25" selection-end-line="172" selection-end-column="25" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#6468#7557#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blocOperatoire.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
+        <state relative-caret-position="362">
+          <caret line="174" column="38" lean-forward="true" selection-start-line="174" selection-start-column="38" selection-end-line="174" selection-end-column="38" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#6489#7578#0" />
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
@@ -616,11 +702,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cabinetDentaire.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
+        <state relative-caret-position="308">
+          <caret line="175" column="43" selection-start-line="175" selection-start-column="43" selection-end-line="175" selection-end-column="43" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#6471#7560#0" />
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
@@ -628,8 +713,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/capteur-plan.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
+        <state relative-caret-position="323">
+          <caret line="175" column="40" selection-start-line="175" selection-start-column="40" selection-end-line="175" selection-end-column="40" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
             <element signature="e#5902#6991#0" />
@@ -639,22 +724,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cardiologie.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
+        <state relative-caret-position="322">
+          <caret line="172" column="27" selection-start-line="172" selection-start-column="27" selection-end-line="172" selection-end-column="27" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#6468#7557#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cart.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
+        <state relative-caret-position="444">
+          <caret line="174" column="35" lean-forward="true" selection-start-line="174" selection-start-column="35" selection-end-line="174" selection-end-column="35" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#6468#7557#0" />
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
@@ -662,11 +745,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/category.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
+        <state relative-caret-position="332">
+          <caret line="174" column="38" lean-forward="true" selection-start-line="174" selection-start-column="38" selection-end-line="174" selection-end-column="38" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#6468#7557#0" />
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
@@ -674,33 +756,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/checkout.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
+        <state relative-caret-position="357">
+          <caret line="173" column="35" lean-forward="true" selection-start-line="173" selection-start-column="35" selection-end-line="173" selection-end-column="35" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#6468#7557#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/consomable-divers.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
+        <state relative-caret-position="173">
+          <caret line="172" column="37" selection-start-line="172" selection-start-column="37" selection-end-line="172" selection-end-column="37" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#6468#7557#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/consomables.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
+        <state relative-caret-position="387">
+          <caret line="172" column="44" selection-start-line="172" selection-start-column="44" selection-end-line="172" selection-end-column="44" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#6468#7557#0" />
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
@@ -708,68 +787,51 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
+        <state relative-caret-position="427">
+          <caret line="173" column="38" lean-forward="true" selection-start-line="173" selection-start-column="38" selection-end-line="173" selection-end-column="38" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#6468#7557#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dopller_couleur.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
+        <state relative-caret-position="302">
+          <caret line="172" column="31" selection-start-line="172" selection-start-column="31" selection-end-line="172" selection-end-column="31" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#6468#7557#0" />
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ecg.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
-          <folding>
-            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#6468#7557#0" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/epreuve-efforts.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
+        <state relative-caret-position="266">
+          <caret line="174" column="38" lean-forward="true" selection-start-line="174" selection-start-column="38" selection-end-line="174" selection-end-column="38" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#6468#7557#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/equipement-ophtamologie.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
+        <state relative-caret-position="172">
+          <caret line="172" column="42" selection-start-line="172" selection-start-column="42" selection-end-line="172" selection-end-column="42" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#6468#7557#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fincare.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
+        <state relative-caret-position="202">
+          <caret line="172" column="24" selection-start-line="172" selection-start-column="24" selection-end-line="172" selection-end-column="24" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#6468#7557#0" />
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
@@ -777,11 +839,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gynecologie.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
+        <state relative-caret-position="274">
+          <caret line="172" column="27" selection-start-line="172" selection-start-column="27" selection-end-line="172" selection-end-column="27" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#6468#7557#0" />
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
@@ -789,22 +850,52 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hematologie.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
+        <state relative-caret-position="308">
+          <caret line="174" column="38" lean-forward="true" selection-start-line="174" selection-start-column="38" selection-end-line="174" selection-end-column="38" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#6468#7557#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reactif-labo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="175" column="50" selection-start-line="175" selection-start-column="50" selection-end-line="175" selection-end-column="50" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autre-lab.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="174" column="38" lean-forward="true" selection-start-line="174" selection-start-column="38" selection-end-line="174" selection-end-column="38" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#5902#6991#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecg.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="172" column="19" selection-start-line="172" selection-start-column="19" selection-end-line="172" selection-end-column="19" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/holter.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
+        <state relative-caret-position="359">
+          <caret line="172" column="22" selection-start-line="172" selection-start-column="22" selection-end-line="172" selection-end-column="22" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#6468#7557#0" />
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
@@ -812,34 +903,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/imprimante-laser.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
+        <state relative-caret-position="478">
+          <caret line="175" column="43" selection-start-line="175" selection-start-column="43" selection-end-line="175" selection-end-column="43" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#6468#7557#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="169" column="27" selection-start-line="169" selection-start-column="27" selection-end-line="169" selection-end-column="27" />
-          <folding>
-            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#5973#7062#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/irm.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
+        <state relative-caret-position="341">
+          <caret line="174" column="38" lean-forward="true" selection-start-line="174" selection-start-column="38" selection-end-line="174" selection-end-column="38" />
           <folding>
-            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#6468#7557#0" />
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
@@ -847,22 +923,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/laboratoire.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
+        <state relative-caret-position="359">
+          <caret line="174" column="38" lean-forward="true" selection-start-line="174" selection-start-column="38" selection-end-line="174" selection-end-column="38" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#6440#7529#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mapa.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
+        <state relative-caret-position="308">
+          <caret line="172" column="20" selection-start-line="172" selection-start-column="20" selection-end-line="172" selection-end-column="20" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#6468#7557#0" />
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
@@ -870,11 +944,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/neuro.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
+        <state relative-caret-position="410">
+          <caret line="172" column="26" selection-start-line="172" selection-start-column="26" selection-end-line="172" selection-end-column="26" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#6468#7557#0" />
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
@@ -882,11 +955,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/noir_sur_blanc.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
+        <state relative-caret-position="495">
+          <caret line="174" column="38" lean-forward="true" selection-start-line="174" selection-start-column="38" selection-end-line="174" selection-end-column="38" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#6468#7557#0" />
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
@@ -894,22 +966,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ophtamologie.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
+        <state relative-caret-position="356">
+          <caret line="174" column="38" lean-forward="true" selection-start-line="174" selection-start-column="38" selection-end-line="174" selection-end-column="38" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#6468#7557#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/references.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="172" column="47" selection-start-line="172" selection-start-column="47" selection-end-line="172" selection-end-column="47" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/orl.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
+        <state relative-caret-position="291">
+          <caret line="174" column="38" lean-forward="true" selection-start-line="174" selection-start-column="38" selection-end-line="174" selection-end-column="38" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#6468#7557#0" />
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
@@ -917,22 +998,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/point-care-testing.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
+        <state relative-caret-position="361">
+          <caret line="174" column="38" lean-forward="true" selection-start-line="174" selection-start-column="38" selection-end-line="174" selection-end-column="38" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#6440#7529#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/product.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
+        <state relative-caret-position="444">
+          <caret line="174" column="38" lean-forward="true" selection-start-line="174" selection-start-column="38" selection-end-line="174" selection-end-column="38" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#6468#7557#0" />
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
@@ -940,112 +1019,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/radio-mobile.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
+        <state relative-caret-position="393">
+          <caret line="174" column="38" lean-forward="true" selection-start-line="174" selection-start-column="38" selection-end-line="174" selection-end-column="38" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#6468#7557#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/radio-telecommande.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
+        <state relative-caret-position="364">
+          <caret line="174" column="38" lean-forward="true" selection-start-line="174" selection-start-column="38" selection-end-line="174" selection-end-column="38" />
           <folding>
-            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#6468#7557#0" />
+            <element signature="n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/radiologie.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
+        <state relative-caret-position="206">
           <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#6468#7557#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reactif-labo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
-          <folding>
-            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#6440#7529#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/references.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
-          <folding>
-            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#6489#7578#0" />
-            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scanner.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
-          <folding>
-            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#6468#7557#0" />
-            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/systeme_de_numerisateur.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
-          <folding>
-            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#6468#7557#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/table-radio-fixe.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
-          <folding>
-            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#6468#7557#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/table-radio-mobile.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
-          <folding>
-            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#6468#7557#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensiometre.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
-          <folding>
-            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#6468#7557#0" />
           </folding>
         </state>
       </provider>
